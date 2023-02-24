@@ -1,4 +1,3 @@
-import fr.hello.Afficher;
 package fr.hello;
 
 public class HelloWorld {
