@@ -1,6 +1,6 @@
 package fr.hello;
 
-public class afficher {
+public class Afficher {
 
  public void display(String message){
 	System.out.println(message);
